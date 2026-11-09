@@ -1,0 +1,14 @@
+name: chemlens
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.11
+  - rdkit=2026.03.6
+  - numpy
+  - pandas
+  - matplotlib
+  - py3dmol
+  - ipykernel
+  - jupyter

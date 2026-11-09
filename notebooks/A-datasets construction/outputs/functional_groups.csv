@@ -1,0 +1,7 @@
+name,Carboxylic acid,Ester,Amide,Amine,Alcohol,Phenol,Ether,Aldehyde,Ketone,Nitrile,Nitro,Six-membered aromatic ring,Halide
+Aspirin,1,1,0,0,0,0,1,0,0,0,0,1,0
+Paracetamol,0,0,1,0,0,1,0,0,0,0,0,1,0
+Caffeine,0,0,0,0,0,0,0,0,0,0,0,1,0
+Ibuprofen,1,0,0,0,0,0,0,0,0,0,0,1,0
+Benzene,0,0,0,0,0,0,0,0,0,0,0,1,0
+Glucose,0,0,0,0,1,0,1,0,0,0,0,0,0
